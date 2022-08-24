@@ -1,0 +1,19 @@
+.container {
+  background-color: #d6d3c0;
+  border: 3px solid #573c2c;
+  border-radius: 1rem;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: 5rem auto;
+}
+
+.image img {
+  width: 80%;
+  height: 100%;
+}
+% .link a {
+  color: #9a8263;
+  text-decoration: none;
+  font-weight: 900;
+}
